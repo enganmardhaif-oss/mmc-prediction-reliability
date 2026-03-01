@@ -55,7 +55,7 @@ Removes each data point one at a time and measures how much the prediction curve
 
 ## Master Figure
 
-![Reliability Analysis](results/figures/reliability_analysis.png)
+![Reliability Analysis](reliability_analysis.png)
 
 ---
 
