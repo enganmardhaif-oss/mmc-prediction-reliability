@@ -1,0 +1,11 @@
+# System: Al7075 + 5vol% Graphite + x vol% nano-WO3
+# Source: Materials Science Forum, Vol. 1002, pp 151–160 (2020)
+# Mahdi, Irhayyim, Abduljabbar
+# Sintering: 600°C, 2h, Argon atmosphere | Sliding distance: 1810m | Speed: 1.5 m/s
+# Hardness optimum at 3.5 vol% | Wear optimum at 3.5 vol%
+concentration_vol,hardness_HV,comp_strength_MPa,exp_density_gcm3,porosity_pct,wear_rate_10N_e7,wear_rate_15N_e7,wear_rate_20N_e7,wear_rate_25N_e7
+0.0,65.0,41.0,2.65,2.5,0.75,0.90,1.05,1.20
+1.5,85.0,47.0,2.70,5.0,0.60,0.75,0.90,1.05
+2.5,110.0,53.0,2.72,7.5,0.45,0.60,0.75,0.90
+3.5,127.0,59.0,2.70,10.0,0.30,0.45,0.55,0.70
+4.5,120.0,57.0,2.65,17.5,0.80,1.00,1.20,1.40
